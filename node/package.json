@@ -1,0 +1,25 @@
+{
+  "name": "sns2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@typescript-eslint/parser": "^5.58.0",
+    "antlr4": "^4.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "antlr4": "antlr4ts -visitor Java8Parser.g4 -o out/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@192.168.71.202:18822/abatlibrary/sns2023.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
