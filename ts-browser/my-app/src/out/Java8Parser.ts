@@ -1,3 +1,6 @@
+/* eslint-disable no-lone-blocks */
+/* eslint-disable @typescript-eslint/no-unused-vars */
+// @ts-nocheck
 // Generated from Java8Parser.g4 by ANTLR 4.12.0
 // noinspection ES6UnusedImports,JSUnusedGlobalSymbols,JSUnusedLocalSymbols
 
